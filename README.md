@@ -1,4 +1,4 @@
-# pandas-challenge
+# Pandas-challenge
 It is a report to analyze the standardized test results in Math and Reading in both Charter and District Schools.
 In this report too, it gives various information on the student's performance on the given test.
 Charter schools have unique freedom and flexibility not found in public school districts. Education often allows them to dedicate increased resources and energy on supporting students in excelling academic standards.
